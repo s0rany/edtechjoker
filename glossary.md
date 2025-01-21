@@ -1,6 +1,6 @@
  # Glossary
 Write a paragraph explaining the term below, including 2-3 relevent links to more information about the topic.
-
+ 
 ## Front end Developer
 
 
